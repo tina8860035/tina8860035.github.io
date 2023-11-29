@@ -1,10 +1,12 @@
 .div {
   background-color: #110c17;
   display: flex;
+  padding-bottom: 50px;
   flex-direction: column;
 }
 .div-2 {
   background-color: #000;
+  align-self: stretch;
   display: flex;
   width: 100%;
   flex-direction: column;
@@ -158,6 +160,7 @@
 }
 .div-11 {
   background-color: #241631;
+  align-self: stretch;
   display: flex;
   width: 100%;
   flex-direction: column;
@@ -280,6 +283,7 @@
 }
 .div-21 {
   background-color: #241631;
+  align-self: stretch;
   display: flex;
   width: 100%;
   flex-direction: column;
@@ -297,7 +301,7 @@
   width: 744px;
   max-width: 100%;
   flex-direction: column;
-  margin: 134px 0 44px;
+  margin: 134px 0 65px;
 }
 @media (max-width: 991px) {
   .div-22 {
@@ -438,5 +442,510 @@
 @media (max-width: 991px) {
   .div-35 {
     max-width: 100%;
+  }
+}
+.div-36 {
+  background-color: #241631;
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 20px;
+}
+@media (max-width: 991px) {
+  .div-36 {
+    max-width: 100%;
+  }
+}
+.div-37 {
+  display: flex;
+  width: 856px;
+  max-width: 100%;
+  flex-direction: column;
+  margin: 115px 0 14px;
+}
+@media (max-width: 991px) {
+  .div-37 {
+    margin-top: 40px;
+  }
+}
+.div-38 {
+  justify-content: center;
+  color: #dad1e6;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-38 {
+    max-width: 100%;
+  }
+}
+.div-39 {
+  margin-top: 45px;
+  padding: 0 1px;
+}
+@media (max-width: 991px) {
+  .div-39 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-40 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-40 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-5 {
+    width: 100%;
+  }
+}
+.div-41 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-41 {
+    margin-top: 27px;
+  }
+}
+.img-4 {
+  aspect-ratio: 1.62;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+.div-42 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 34px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.column-6 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-6 {
+    width: 100%;
+  }
+}
+.div-43 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-43 {
+    margin-top: 27px;
+  }
+}
+.img-5 {
+  aspect-ratio: 1.62;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+.div-44 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 34px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.column-7 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-7 {
+    width: 100%;
+  }
+}
+.div-45 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-45 {
+    margin-top: 27px;
+  }
+}
+.img-6 {
+  aspect-ratio: 1.62;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+.div-46 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 34px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.div-47 {
+  background-color: #241631;
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 20px;
+}
+@media (max-width: 991px) {
+  .div-47 {
+    max-width: 100%;
+  }
+}
+.div-48 {
+  display: flex;
+  width: 693px;
+  max-width: 100%;
+  flex-direction: column;
+  margin: 122px 0 13px;
+}
+@media (max-width: 991px) {
+  .div-48 {
+    margin-top: 40px;
+  }
+}
+.div-49 {
+  justify-content: center;
+  color: #dad1e6;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-49 {
+    max-width: 100%;
+  }
+}
+.div-50 {
+  margin-top: 52px;
+  padding: 0 1px;
+}
+@media (max-width: 991px) {
+  .div-50 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-51 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-51 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-8 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 57%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-8 {
+    width: 100%;
+  }
+}
+.div-52 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-52 {
+    margin-top: 40px;
+  }
+}
+.div-53 {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 18px;
+}
+.div-54 {
+  justify-content: center;
+  align-items: start;
+  border-radius: 4.5px;
+  background-color: #312140;
+  display: flex;
+  aspect-ratio: 1;
+  flex-direction: column;
+  width: 40px;
+  height: 40px;
+  padding: 0 15px;
+}
+.div-55 {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(154deg, #ff726d 5%, #ff4da9 45%, #cd42d7 85%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  font: 700 27px/34px Inconsolata, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+@media (max-width: 991px) {
+  .div-55 {
+    white-space: initial;
+  }
+}
+.div-56 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 18px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.div-57 {
+  display: flex;
+  margin-top: 11px;
+  align-items: start;
+  justify-content: space-between;
+  gap: 18px;
+}
+.div-58 {
+  justify-content: center;
+  border-radius: 4.5px;
+  background-color: #312140;
+  display: flex;
+  aspect-ratio: 1;
+  flex-direction: column;
+  width: 40px;
+  height: 40px;
+  padding: 0 14px;
+}
+.div-59 {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(154deg, #ff726d 5%, #ff4da9 45%, #cd42d7 85%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  font: 700 27px/34px Inconsolata, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+@media (max-width: 991px) {
+  .div-59 {
+    white-space: initial;
+  }
+}
+.div-60 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 18px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.column-9 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 43%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-9 {
+    width: 100%;
+  }
+}
+.div-61 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-61 {
+    margin-top: 40px;
+  }
+}
+.div-62 {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 18px;
+}
+.div-63 {
+  justify-content: center;
+  border-radius: 4.5px;
+  background-color: #312140;
+  display: flex;
+  aspect-ratio: 1.025;
+  flex-direction: column;
+  padding: 12px 15px;
+}
+.div-64 {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(154deg, #ff726d 5%, #ff4da9 45%, #cd42d7 85%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  font: 700 27px/34px Inconsolata, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+@media (max-width: 991px) {
+  .div-64 {
+    white-space: initial;
+  }
+}
+.div-65 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 18px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.div-66 {
+  display: flex;
+  margin-top: 11px;
+  align-items: start;
+  justify-content: space-between;
+  gap: 18px;
+}
+.div-67 {
+  justify-content: center;
+  border-radius: 4.5px;
+  background-color: #312140;
+  display: flex;
+  aspect-ratio: 1.025;
+  flex-direction: column;
+  padding: 12px 15px;
+}
+.div-68 {
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(154deg, #ff726d 5%, #ff4da9 45%, #cd42d7 85%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  font: 700 27px/34px Inconsolata, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+@media (max-width: 991px) {
+  .div-68 {
+    white-space: initial;
+  }
+}
+.div-69 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 18px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+.div-70 {
+  border-radius: 4.5px;
+  background-color: #241631;
+  align-self: center;
+  display: flex;
+  width: 990px;
+  max-width: 100%;
+  flex-direction: column;
+  align-items: start;
+  margin: 32px 0 22px;
+  padding: 50px 80px 50px 68px;
+}
+@media (max-width: 991px) {
+  .div-70 {
+    padding: 0 20px;
+  }
+}
+.div-71 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 76px;
+  max-width: 459px;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-71 {
+    margin-top: 40px;
+  }
+}
+.div-72 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 52px;
+  white-space: nowrap;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-72 {
+    margin-top: 40px;
+    white-space: initial;
+  }
+}
+.div-73 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 9px;
+  white-space: nowrap;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-73 {
+    white-space: initial;
+  }
+}
+.div-74 {
+  justify-content: center;
+  color: #dad1e6;
+  margin-top: 5px;
+  white-space: nowrap;
+  font: 400 18px/29px Fira Sans, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-74 {
+    white-space: initial;
+  }
+}
+.div-75 {
+  justify-content: center;
+  color: #000;
+  text-align: center;
+  align-items: center;
+  border-radius: 4.5px;
+  background: linear-gradient(128deg, #ff6680 5%, #ff4da9 45%, #cd42d7 85%);
+  width: 168px;
+  max-width: 100%;
+  margin: 12px 0 0 16px;
+  padding: 18px 20px;
+  font: 700 18px/29px Inconsolata, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+@media (max-width: 991px) {
+  .div-75 {
+    margin-left: 10px;
   }
 }
